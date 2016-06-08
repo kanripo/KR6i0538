@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:09.221267
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:54
 #+TITLE: 佛語經
 #+PROPERTY: CBETA_ID T17n0832
 #+PROPERTY: ID KR6i0538
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 832
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0538_T_001-0878b> 
 #+PROPERTY: JUAN 1
 ¶
-No.832¶
-
- 《佛語經》¶
+No. 832¶
+《佛語經》¶
 ¶
 元魏天竺三藏菩提流支譯¶
 
@@ -82,7 +81,7 @@ No.832¶
 亦不分別非我所者，名為菩薩」。
 
 時龍威德上¶
-王菩薩面白佛言：「世尊！以何義故而有言¶
+王菩薩而白佛言：「世尊！以何義故而有言¶
 說？何者言說？」
 
 佛言：「善男子！魔波卑掾。復次
